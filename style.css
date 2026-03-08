@@ -172,7 +172,7 @@ img {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #fffbeb 0%, #fef3c7 100%);
+    background: linear-gradient(135deg, #dcb944 0%, #dcb944 100%);
     border-bottom: 1px solid var(--primary-light);
     padding: 5rem 1rem;
     text-align: center;
