@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Jalearealbcn/jaleareal
+  repo: Deividsenbcn/jaleareal
   branch: main
   base_url: https://sveltia-cms-auth.multipreulaplana.workers.dev/
   
