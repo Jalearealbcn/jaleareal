@@ -1,7 +1,7 @@
 ---
 title: 'Cera de abeja: usos, propiedades y beneficios'
 description: Descubre todos los usos de la cera de abeja, sus propiedades naturales y cómo utilizarla en cosmética, madera y velas.
-date: 2026-03-11T12:50:00
+date: 2026-03-12T00:50:00
 thumbnail: /assets/img/sperry-honey-cepYDMJyLMc-unsplash.jpg
 ---
 
