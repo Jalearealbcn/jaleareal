@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="section">
+    <div class="section-inner">
+        <p class="section-label">Categoría</p>
+        <h1 class="section-title">{{ page.title }}</h1>
+        {% if page.description %}
+        <p class="section-subtitle">{{ page.description }}</p>
+        {% endif %}
+
+        <div class="cards-grid">
+            {% assign categoria = page.categoria %}
+            {% for post in site.posts %}
+                {% if post.categories contains categoria %}
+                <article class="card">
+                    {% if post.thumbnail %}
+                    <img src="{{ post.thumbnail }}" alt="{{ post.title }}" class="card-image">
+                    {% else %}
+                    <div class="card-image-placeholder">🍯</div>
+                    {% endif %}
+                    <div class="card-body">
+                        <p class="card-category">{{ post.categories | first }}</p>
+                        <h3 class="card-title">{{ post.title }}</h3>
+                        <p class="card-excerpt">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</p>
+                        <a href="{{ post.url }}" class="card-link">Leer más →</a>
+                    </div>
+                </article>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+    </div>
+</section>
