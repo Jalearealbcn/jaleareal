@@ -34,3 +34,4 @@ collections:
           - { label: "Polen", value: "polen" }
       - { label: "Imagen destacada", name: "thumbnail", widget: "image", required: false }
       - { label: "Contenido", name: "body", widget: "markdown" }
+sitemap: false
