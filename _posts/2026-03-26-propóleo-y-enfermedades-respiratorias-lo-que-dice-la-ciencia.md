@@ -3,7 +3,7 @@ title: 'Propóleo y Enfermedades Respiratorias: Lo Que Dice la Ciencia'
 description: Descubre qué dice la ciencia sobre el propóleo y las enfermedades respiratorias. Estudios clínicos demuestran su eficacia antiviral frente al COVID-19, la gripe y las infecciones del tracto respiratorio. Evidencia real, respaldada por NIH/PubMed.
 date: 2026-03-26T20:20:00
 categories: propoleo
-thumbnail: ''
+thumbnail: /assets/img/Investigación_y_propolis.jpeg
 ---
 
 # Propóleo y Enfermedades Respiratorias: Lo Que Dice la Ciencia
@@ -37,9 +37,6 @@ Uno de los datos más útiles para el lector: durante infecciones respiratorias 
 
 ## ¿Qué Tipo de Propóleo Es Más Efectivo?
 
-No todos los propóleos son iguales. Los estudios apuntan al **propóleo verde brasileño** y al **propóleo anatolio** como los más estudiados y con mejores resultados antivirales. Los **extractos etanólicos al 70–80%** son los que concentran mayor cantidad de polifenoles y presentan mayor actividad sinérgica frente a los virus respiratorios.
-
-
-
+No todos los propóleos son iguales. Los estudios apuntan al **propóleo verde brasileño** y al **propóleo anatolio** como los más estudiados y con mejores resultados antivirales. Los \*\*extractos etanólicos al 70–80%\*\* son los que concentran mayor cantidad de polifenoles y presentan mayor actividad sinérgica frente a los virus respiratorios.
 
 > 📚 **Fuente científica**: Ożarowski M, Karpiński TM. _"The Effects of Propolis on Viral Respiratory Diseases"_. Molecules. 2023 Jan 1;28(1):359. [PMC9824023](https://pmc.ncbi.nlm.nih.gov/articles/PMC9824023/) — NIH/PubMed
