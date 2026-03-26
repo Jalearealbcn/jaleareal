@@ -3,7 +3,7 @@ title: 'Propóleo y Enfermedades Respiratorias: Lo Que Dice la Ciencia'
 description: Descubre qué dice la ciencia sobre el propóleo y las enfermedades respiratorias. Estudios clínicos demuestran su eficacia antiviral frente al COVID-19, la gripe y las infecciones del tracto respiratorio. Evidencia real, respaldada por NIH/PubMed.
 date: 2026-03-26T20:20:00
 categories: estudios
-thumbnail: /assets/img/Investigacio_y_propolis640.jpg
+thumbnail: /assets/img/Investigacion_y_propolis640.jpeg
 ---
 
 # Propóleo y Enfermedades Respiratorias: Lo Que Dice la Ciencia
