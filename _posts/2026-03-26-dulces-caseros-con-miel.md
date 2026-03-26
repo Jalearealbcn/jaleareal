@@ -3,7 +3,7 @@ title: Dulces Caseros con Miel
 description: Pequeñas recetas con miel muy sabrosas y sencillas para hacer en casa
 date: 2026-03-26T19:34:00
 categories: recetas
-thumbnail: /assets/img/torrijas-miel.jpeg
+thumbnail: /assets/img/torrijas-miel640.jpg
 ---
 
 ### **11 Dulces caseros con miel:**
