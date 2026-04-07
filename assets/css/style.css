@@ -220,8 +220,8 @@ a:hover { color: var(--color-accent-dark); }
     margin: 2rem 0;
 }
 .producto-card img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     object-fit: contain;
     flex-shrink: 0;
 }
