@@ -156,31 +156,6 @@ a:hover { color: var(--color-accent-dark); }
     .cards-grid { grid-template-columns: 1fr; }
 }
 
-/* ===== BANNER CONSTRUCCIÓN ===== */
-#construccion-banner {
-    background: var(--color-accent);
-    color: white;
-    text-align: center;
-    padding: 0.6rem 2rem;
-    font-size: 0.9rem;
-    font-weight: 700;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
-}
-#construccion-banner button {
-    background: none;
-    border: 2px solid white;
-    color: white;
-    border-radius: 50%;
-    width: 24px;
-    height: 24px;
-    cursor: pointer;
-    font-size: 0.8rem;
-    line-height: 1;
-}
-
 /* ===== CATEGORÍAS CON IMAGEN ===== */
 
 .category-card {
