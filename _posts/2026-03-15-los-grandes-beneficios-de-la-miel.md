@@ -29,3 +29,12 @@ Debido a una acción sinérgica entre la baja humedad que contiene (lo que impid
 •Por la misma razón, no resulta recomendable comprar miel que se encuentra expuesta en un lugar luminoso dentro del comercio, especialmente si está envasada en frascos transparentes o claros. 
 
 •Conservarla en un lugar fresco y seco.
+
+<div class="producto-card">
+<img src="https://m.media-amazon.com/images/I/71ozsvKOAQL._SL1200_.jpg" alt="El Libro de las Abejas">
+<div class="producto-info">
+<h4>El Libro de las Abejas: 1 (Ecología)</h4>
+<p>🐝  Sobre las humildes y trabajadoras abejas descansa una gran responsabilidad: son fundamentales en nuestras vidas porque son las encargadas de polinizar las plantas que nos sirven de sustento, una tercera parte de los cultivos mundiales depende de su labor y, por tanto, si colapsa la colmena, colapsa el mundo.</p>
+<a href="https://amzn.to/3OOZpDI" target="_blank" rel="nofollow sponsored" class="btn btn-primary">Ver en Amazon España</a>
+</div>
+</div>
