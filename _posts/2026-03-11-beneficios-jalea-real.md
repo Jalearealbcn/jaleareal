@@ -24,17 +24,12 @@ La jalea real es una pasta fluida de color amarillento virando al marfil, muy ar
 ### **¿Cuál es su composición?**
 
  Por supuesto, el secreto de que la jalea real sea un alimento tan increíblemente completo reside en su fórmula de composición que contiene una cantidad, calidad y variedad de nutrientes verdaderamente sorprendente. Aunque no deseamos abrumar al lector con una descripción y explicación pormenorizada de la función y los beneficios de cada uno de ellos, sí nos parece importante mencionarlos de modo tal que el lector tenga una suerte de “panorama general” de la riqueza de nutrientes de la jalea real y, en caso de así desearlo, recabar más datos acerca de cada uno de sus componentes, que son los siguiente: 
-<<<<<<< HEAD
- •Agua en un porcentaje cercano al 66%. 
- •Los siguientes aminoácidos: alanina, cisteína, fenilalanina, valina, tirosina, prolina, lisina, triptófano, treonina, serina, ácido glutámico, ácido aspártico y leucina. •En gran porcentaje: vitamina B1, B2, B5, B6 y ácido fólico 
- •En porcentajes menores: vitamina A, C, D, E y B12. 
- •Con relación a los minerales y oligoelementos, posee cobre, calcio, fósforo, hierro, potasio y sílice.
-=======
-•Agua en un porcentaje cercano al 66%. •Los siguientes aminoácidos: alanina, cisteína, fenilalanina, valina, tirosina, prolina, lisina, triptófano, treonina, serina, ácido glutámico, ácido aspártico y leucina. 
-•En gran porcentaje: vitamina B1, B2, B5, B6 y ácido fólico 
-•En porcentajes menores: vitamina A, C, D, E y B12. 
-•Con relación a los minerales y oligoelementos, posee cobre, calcio, fósforo, hierro, potasio y sílice.
->>>>>>> 5d826d50acbb07dd4a91a9cd0d9db5aea0e6e752
+
+- Agua en un porcentaje cercano al 66%.
+- Los siguientes aminoácidos: alanina, cisteína, fenilalanina, valina, tirosina, prolina, lisina, triptófano, treonina, serina, ácido glutámico, ácido aspártico y leucina.
+- En gran porcentaje: vitamina B1, B2, B5, B6 y ácido fólico.
+- En porcentajes menores: vitamina A, C, D, E y B12.
+- Con relación a los minerales y oligoelementos, posee cobre, calcio, fósforo, hierro, potasio y sílice.
 
 ### ¿Qué efectos tiene en el ser humano?
 
