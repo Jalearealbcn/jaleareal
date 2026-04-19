@@ -32,6 +32,14 @@ Los investigadores proponen que la jalea real reduce el colesterol a través de 
 
 Los autores concluyen que **tres meses de suplementación con jalea real reducen significativamente el colesterol total y el LDL** en adultos con hipercolesterolemia leve, lo que podría contribuir a disminuir el riesgo de enfermedades cardiovasculares.
 
-📌 Referencia científica: Chiu HF, et al. "Hypocholesterolemic efficacy of royal jelly in healthy mild hypercholesterolemic adults." Pharm Biol. 2017;55(1):497-502. 
+📌 Referencia científica: Chiu HF, et al. "Hypocholesterolemic efficacy of royal jelly in healthy mild hypercholesterolemic adults." Pharm Biol. 2017;55(1):497-502.
 
 PMID: 27937077
+<div class="producto-card">
+<img src="https://m.media-amazon.com/images/I/81W3sQI2nOL._AC_SL1500_.jpg" alt="Jalea Real Bio">
+<div class="producto-info">
+<h4>Jalea Real BIO</h4>
+<p>🐝 Jalea Real Pura con Elementos Esenciales: Vitaminas, Oligoelementos y Minerales para Energía...</p>
+<a href="https://amzn.to/41jxkau" target="blank" rel="nofollow sponsored" class="btn btn-primary">Ver en Amazon España</a>
+</div>
+</div>
