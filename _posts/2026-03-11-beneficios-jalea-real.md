@@ -66,3 +66,12 @@ Ya dicho esto, pasemos a enumerar de manera pormenorizada algunos de sus más de
 •Por último, también existen productos con un mínimo agregado de jalea real: cremas de belleza, caramelos, productos capilares, etc.
 
 \*\*Una advertencia importante: \*\* Es necesario ser muy cuidadoso al adquirir jalea real para evitar un producto envejecido o mal conservado o, más simplemente, falso.
+
+<div class="producto-card">
+<img src="https://m.media-amazon.com/images/I/71dbOtFdNUL._AC_SL1500_.jpg" alt="Jalea Real pura">
+<div class="producto-info">
+<h4>Marny&#039;s Jalea Real pura 3.850 mg, Máxima energía para periodos especiales</h4>
+<p>🐝  Jalea Real, Polen, Propóleo y Vitamina E</p>
+<a href="https://amzn.to/4mCVc2s" target="_blank" rel="nofollow sponsored" class="btn btn-primary">Ver en Amazon España</a>
+</div>
+</div>
