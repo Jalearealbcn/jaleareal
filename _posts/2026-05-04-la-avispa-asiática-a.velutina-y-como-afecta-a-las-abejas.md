@@ -34,10 +34,18 @@ Para intentar frenar esta plaga y proteger los apiarios, se están aplicando div
 
 **Fomento de depredadores:** Estudio y protección de aves autóctonas que cazan a estas avispas, como el **abejaruco** (Merops apiaster) o el **abejero europeo** (Pernis apivorus).
 
-
 ### Trampas caseras
 
 Si prefieres una opción de bajo coste, puedes fabricar tus propias trampas utilizando botellas de plástico, cortando la parte superior e invirtiéndola en forma de embudo.
+
+<div class="producto-card">
+<img src="https://m.media-amazon.com/images/I/71MlasMxxLL._AC_SL1440_.jpg" alt="Trampa de avispas">
+<div class="producto-info">
+<h4>Trampa de avispas reutilizable</h4>
+<p>🐝 Nuestra trampa para avispas y avispas se puede instalar fácilmente en unos sencillos pasos. Es suficiente llenar la trampa con el cebo adecuado, colgarla en un lugar estratégico y dejar que la trampa haga el trabajo por usted, sin complicaciones ni complicaciones.</p>
+<a href="https://amzn.to/4d2OvlN" target="_blank" rel="nofollow sponsored" class="btn btn-primary">Ver en Amazon España</a>
+</div>
+</div>
 
 #### **Receta para el atrayente casero (para usar en primavera):**
 
