@@ -6,11 +6,11 @@ categories: sabias-que
 thumbnail: /assets/img/nido-velutina640.jpg
 ---
 
-#### Expansión por la península
+### Expansión por la península
 
 La avispa asiática se ha adaptado excepcionalmente bien a las zonas húmedas y de clima suave de la península ibérica, consolidándose en comunidades como Galicia, Navarra y Cataluña. Las primeras colonias en territorio catalán se detectaron en 2012 en la Vall d'en Bas, procedentes de Francia. Su capacidad de colonización es tan elevada que, entre 2018 y 2025, el área de distribución del insecto en España se ha duplicado, pasando a ocupar casi 89.000 kilómetros cuadrados. Estos insectos construyen nidos primarios escondidos y, posteriormente, nidos secundarios de hasta un metro de diámetro en las copas de los árboles, lo que dificulta enormemente su localización y destrucción.
 
-##### Impacto en las abejas
+#### Impacto en las abejas
 
 El ataque de la Vespa velutina hacia la abeja melífera es devastador y actúa a través de los siguientes mecanismos:
 
@@ -20,11 +20,11 @@ El ataque de la Vespa velutina hacia la abeja melífera es devastador y actúa a
 
 **Colapso de la colonia:** Al no poder salir a recolectar alimento, las abejas consumen sus propias reservas de miel, sufren carencias nutricionales y la colmena termina colapsando por inanición o debilidad, especialmente de cara al invierno.
 
-##### Daños económicos y ecológicos
+#### Daños económicos y ecológicos
 
 El asedio a las colmenas debilita gravemente la producción apícola en las regiones afectadas. Solo en Cataluña, se calcula que durante el año 2025 la presencia de esta avispa redujo la producción de miel en unos 300.000 kilos, ocasionando pérdidas por valor de 2,4 millones de euros. En Galicia la situación es aún más crítica, estimándose pérdidas que rondan el 65% de la producción total de miel. Además de la apicultura, la merma de abejas reduce drásticamente la polinización de la flora silvestre y afecta a cultivos frutales de alto valor, como uvas, manzanas y arándanos.
 
-##### Medidas de prevención
+#### Medidas de prevención
 
 Para intentar frenar esta plaga y proteger los apiarios, se están aplicando diversas medidas de contención:
 
@@ -36,11 +36,11 @@ Para intentar frenar esta plaga y proteger los apiarios, se están aplicando div
 
 #### 
 
-#### Trampas caseras
+### Trampas caseras
 
 Si prefieres una opción de bajo coste, puedes fabricar tus propias trampas utilizando botellas de plástico, cortando la parte superior e invirtiéndola en forma de embudo.
 
-**Receta para el atrayente casero (para usar en primavera):**
+#### **Receta para el atrayente casero (para usar en primavera):**
 
 - 1/3 de cerveza negra (su olor atrae mucho a las velutinas).
 - 1/3 de vino blanco (el alcohol repele a las abejas).
