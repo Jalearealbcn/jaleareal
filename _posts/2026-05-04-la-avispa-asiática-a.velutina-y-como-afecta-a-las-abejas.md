@@ -34,7 +34,6 @@ Para intentar frenar esta plaga y proteger los apiarios, se están aplicando div
 
 **Fomento de depredadores:** Estudio y protección de aves autóctonas que cazan a estas avispas, como el **abejaruco** (Merops apiaster) o el **abejero europeo** (Pernis apivorus).
 
-#### 
 
 ### Trampas caseras
 
