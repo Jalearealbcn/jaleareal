@@ -32,6 +32,7 @@ collections:
           - { label: "Estudios", value: "estudios" }
           - { label: "Cera de Abeja", value: "cera-de-abeja" }
           - { label: "Polen", value: "polen" }
+          - { label: "Plantas Medicinales", value: "plantas-medicinales" }
           - { label: "¿Sabías que...?", value: "sabias-que" }
       - { label: "Imagen destacada", name: "thumbnail", widget: "image", required: false }
       - { label: "Contenido", name: "body", widget: "markdown" }
